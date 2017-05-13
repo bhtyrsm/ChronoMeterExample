@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chronometer Example</string>
+    <string name="chronometer">Chronometer</string>
+       <string name="togglebutton" />
+
+</resources>
